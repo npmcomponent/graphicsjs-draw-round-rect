@@ -1,0 +1,14 @@
+{
+  "name": "draw-round-rect",
+  "repo": "graphicsjs/draw-round-rect",
+  "description": "Draw rounded rectangle on canvas",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
